@@ -1,0 +1,10 @@
+Package: PIN
+Title: Proteome Integrity Number
+Version: 0.0.0.9000
+Authors@R: person("Wenguang", "Shao", email = "wenguang.shao@imsb.biol.ethz.ch", role = c("aut", "cre"))
+Description: Proteome Integrity Number (PIN), to quantify the proteome-wide degree of degradation in each sample.
+Depends: R (>= 3.3.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
